@@ -9,6 +9,10 @@ import java.util.Random;
  * Copyright: MIT
  */
 
+/**
+ * Här finns temporär testkod
+ * Koden kommer att ändras under kursens gång
+ */
 public class Test {
 
     public static void main(String[] args) {
