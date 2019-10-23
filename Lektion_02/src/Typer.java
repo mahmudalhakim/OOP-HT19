@@ -11,6 +11,8 @@ import javax.swing.*;
 public class Typer {
 
     public static void main(String[] args) {
+
+
         System.out.println("Variabler och typer i Java");
 
         // Variabeldeklarationer
