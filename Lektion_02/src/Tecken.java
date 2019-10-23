@@ -22,8 +22,11 @@ public class Tecken {
 
         char c1 = 'A';
         char c2 = '1'; // Detta är ett tecken
-        System.out.println(c2 * 2); // 98
-        int number = c2; // 49, varför?
+        System.out.println(c2 * 2); // 98, varför?
+        System.out.println(c1 + c2); // 114, varför?
+        System.out.println(c1 + "" + c2); // Nu får vi A1
+        int number = c2; // 49 enligt Unicode-tabellen
+        // https://en.wikipedia.org/wiki/List_of_Unicode_characters
         System.out.println("Number 1 = " + number);
 
         char copy = '\u00A9';
