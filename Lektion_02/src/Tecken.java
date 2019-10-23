@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 /**
  * Created by Mahmud Al Hakim
  * Nackademin - Stockholm - Sweden
@@ -82,6 +80,29 @@ public class Tecken {
         System.out.println("----\t------");
         System.out.println("Mahmud\tmahmud@hotmail.com");
         System.out.println("James\tjames@gosling.com");
-    }
 
-}
+        // Tips! Ascii Art Generator
+        // http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Welcome
+        String welcome = "\n" +
+                " __    __    ___  _        __   ___   ___ ___    ___      ______   ___       ___ ___   ____  __ __ \n" +
+                "|  |__|  |  /  _]| |      /  ] /   \\ |   |   |  /  _]    |      | /   \\     |   |   | /    ||  |  |\n" +
+                "|  |  |  | /  [_ | |     /  / |     || _   _ | /  [_     |      ||     |    | _   _ ||  o  ||  |  |\n" +
+                "|  |  |  ||    _]| |___ /  /  |  O  ||  \\_/  ||    _]    |_|  |_||  O  |    |  \\_/  ||     ||  _  |\n" +
+                "|  `  '  ||   [_ |     /   \\_ |     ||   |   ||   [_       |  |  |     |    |   |   ||  _  ||  |  |\n" +
+                " \\      / |     ||     \\     ||     ||   |   ||     |      |  |  |     |    |   |   ||  |  ||  |  |\n" +
+                "  \\_/\\_/  |_____||_____|\\____| \\___/ |___|___||_____|      |__|   \\___/     |___|___||__|__||__|__|\n" +
+                "                                                                                                   \n";
+        System.out.println(welcome);
+
+        welcome = "\n" +
+                " __      __       .__                               \n" +
+                "/  \\    /  \\ ____ |  |   ____  ____   _____   ____  \n" +
+                "\\   \\/\\/   // __ \\|  | _/ ___\\/  _ \\ /     \\_/ __ \\ \n" +
+                " \\        /\\  ___/|  |_\\  \\__(  <_> )  Y Y  \\  ___/ \n" +
+                "  \\__/\\  /  \\___  >____/\\___  >____/|__|_|  /\\___  >\n" +
+                "       \\/       \\/          \\/            \\/     \\/ \n";
+
+        System.out.println(welcome);
+
+    } // Avslutar main-metoden
+} // Avslutar klassen
