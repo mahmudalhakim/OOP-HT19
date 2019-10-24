@@ -31,6 +31,8 @@ public class Tecken {
 
         char copy = '\u00A9';
         System.out.println("Copyright " + copy + " 2019");
+        // Du kan placera Unicode-tecken direkt i en sträng
+        System.out.println("Copyright \u00A9 2019");
 
         // Symboler för upphöjd till 2 och 3
         System.out.println("x" + '\u00B2'); // x^2
