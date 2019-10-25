@@ -11,7 +11,7 @@ public class StringDemo {
     public static void main(String[] args) {
 
         // Metoden length() ger antal tecken
-        String  hello = "Hello World!";
+        String hello = "Hello World!";
         System.out.println("\"" + hello + "\" innehåller " +
                 hello.length() + " tecken.");
 
@@ -24,14 +24,14 @@ public class StringDemo {
         System.out.println("Första tecknet är: " + firstChar);
 
         // Hämta sista tecknet i strängen
-        char lastChar = hello.charAt(hello.length()-1);
+        char lastChar = hello.charAt(hello.length() - 1);
         System.out.println("Sista tecknet är : " + lastChar);
 
         // Hämta index av ett specifikt tecken
-        System.out.println("Första index av tecknet'o' : "+hello.indexOf('o'));
-        System.out.println("Sista index av tecknet 'o' : "+hello.lastIndexOf('o'));
+        System.out.println("Första index av tecknet'o' : " + hello.indexOf('o'));
+        System.out.println("Sista index av tecknet 'o' : " + hello.lastIndexOf('o'));
         // Testa med stora bokstäver (OBS! Java är Case Sensitive)
-        System.out.println("Sista index av tecknet 'O' : "+hello.lastIndexOf('O'));
+        System.out.println("Sista index av tecknet 'O' : " + hello.lastIndexOf('O'));
         // -1 innebär att tecknet saknas!
 
         // Sök om det finns en sträng inne i en annan sträng
@@ -58,14 +58,13 @@ public class StringDemo {
         /*
         Övning
         ------
-        Om man har
+        Om man har satsen
         String hello ="Hello live world!";
-        hur kan man hitta index of alla l's i strängen
-        för att det finns 4 l's
+        Hitta ental mellanslag i strängen
         OBS! Lös övningen med hjälp av ovanstående metoder!
         Tips! Använd length() och replace()
         */
-        hello ="Hello live world!";
+        hello = "Hello live world!";
         System.out.println(hello);
         System.out.println("Antal tecken: " + hello.length());
 
@@ -81,9 +80,16 @@ public class StringDemo {
         int antalMellansalg = hello.length() - hello2.length();
         System.out.println("Det finns " + antalMellansalg + " mellanslag");
 
-        // Svar på övningen
+        // Hämta antal l i strängen
         int count = hello.length() - hello.replace("l", "").length();
         System.out.println("Antal l: " + count);
+
+        // Hämta antal h i strängen
+        count = hello.length() - hello.replace("h", "").length();
+        System.out.println("Antal h: " + count); // OBS! 0 (Case Sensitive)
+
+        count = hello.length() - hello.toLowerCase().replace("h", "").length();
+        System.out.println("Antal H: " + count); // 1
 
         // Testa om strängen är tom
         String test = "";
@@ -107,7 +113,7 @@ public class StringDemo {
         String firstName = test.substring(0, firstSpace);
         System.out.println("Hej " + firstName + "!");
 
-        String lastName  = test.substring(firstSpace + 1);
+        String lastName = test.substring(firstSpace + 1);
         // Från och med första tecknet efter mellanslaget till slutet!
         System.out.println("Efternamn = " + lastName);
 
@@ -128,11 +134,6 @@ public class StringDemo {
         // Skapa en ny sträng
         hello = hello.substring(0, space) + hello.substring(lastSpace);
         System.out.println(hello);
-
-
-
-
-
 
     }
 
