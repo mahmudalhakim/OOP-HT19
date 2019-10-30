@@ -12,10 +12,12 @@ public class FizzBuzz {
      * Skapa ett program som testar om ett tal är jämnt delbart med 3.
      * I så fall skriver programmet ut "Fizz".
      * Om talet är jämnt delbart med 5 skrivs "Buzz" ut.
-     * Slutligen skrivs "FizzBuzz" ut om talet är jämnt delbart med både 3 och 5.
+     * Slutligen skrivs "FizzBuzz" ut om talet är
+     * jämnt delbart med både 3 och 5.
+     *
      * Testa talen från 1 till 100.
-     * Här till höger visas 1 till 15.
-     */
+     *
+     ***********************************************************/
 
     public static void main(String[] args) {
 
