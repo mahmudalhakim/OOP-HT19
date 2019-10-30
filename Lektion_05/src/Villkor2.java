@@ -48,12 +48,12 @@ public class Villkor2 {
         else
             System.out.println("Tyvärr, du får inte låna pengar!");
 
-        // Tärningkast
+        // Tärningskast
         int dice = 6;
         if(dice >= 1 && dice <= 6)
             System.out.println("Between 1 and 6");
         else
-            System.out.println("Error: outside ranges");
+            System.out.println("Error: outside range");
 
         System.out.println("------------------------");
         System.out.println("||-Operator (Eller-Operator)");
@@ -63,7 +63,7 @@ public class Villkor2 {
         married = true;
         income = 250_000;
         if(married || income >= 400_000)
-            System.out.println("Välkommen till Alhakim BANK AB");
+            System.out.println("Välkommen till Hakim Bank AB");
         else
             System.out.println("Du kan hyra en lägenhet än så länge!");
 
@@ -71,7 +71,7 @@ public class Villkor2 {
         boolean harProgrammering = false;
         boolean harPreparandkurs = true;
         if(harProgrammering || harPreparandkurs)
-            System.out.println("Grattis! du får söka utbildnigen");
+            System.out.println("Grattis! du får söka utbildningen");
         else
             System.out.println("Tyvärr, Du måste ha läst programmering" +
                     ", eller preparandkurs hos oss!");
