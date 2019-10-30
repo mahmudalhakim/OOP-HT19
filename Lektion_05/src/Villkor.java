@@ -89,5 +89,89 @@ public class Villkor {
             System.out.println("VG");
         }
 
+        /*********************************************
+         * TERNARY-OPERATOR
+         *********************************************/
+
+        age = 17;
+        String message = (age < 18) ? "Barn" : "Vuxen";
+        System.out.println(message);
+
+        age = 21;
+        message = (age < 18) ? "Barn" : "Vuxen";
+        System.out.println(message);
+
+        // Övning
+        // Skriv om denna sats med if-else
+        // String msg = (age < 18) ? "Barn" : "Vuxen";
+
+        String msg;
+        if (age < 18)
+            msg = "Barn";
+        else
+            msg = "Vuxen";
+
+        /*****************************************************************
+         *  Övning
+         *  Skriv om följande if-else med en ternary-operator
+         ****************************************************************/
+        int time = 20;
+        if (time < 18) {
+            System.out.println("Good day.");
+        } else {
+            System.out.println("Good evening.");
+        }
+
+        // Lösning
+        int tid = 20;
+        System.out.println((tid < 18) ? "Good day!" : "Good evening!");
+
+        tid = 9;
+        System.out.println((tid < 18) ? "Good day!" : "Good evening!");
+
+
+        /*****************************************************************
+         * Övning
+         * Skapa ett program som läser in antalet minuter man i genomsnitt
+         *   ringer per månad samt kostnaden per minut.
+         *
+         * Ge kunden 10% rabatt om man ringer för minst 1000kr per månad.
+         *
+         * Skriv testkod för att testa olika input-värden.
+         * Visa resultatet i terminalen.
+         *
+         ****************************************************************/
+
+        System.out.println("------------------------------------");
+        System.out.println("------------- FAKTURA --------------");
+        // Testkod (Test Code)
+
+        // Nödvändiga variabler
+        int minutes = 5000;
+        double pricePerMinute = 1.0;
+        int procent = 20 ; // 20%
+
+        System.out.println("Du har ringt " + minutes + " minuter denna månad");
+        System.out.println("Pris per minut: " + pricePerMinute);
+        // Beräkna totalkostnad per månad
+        double total = minutes * pricePerMinute;
+        System.out.println("Kostnad per månad: " + Math.round(total) + "kr");
+
+        // Ge kunden 10% rabatt om man ringer över 1000
+        if(total >= 1000){
+            double rabatt = total * procent/100;
+            total = total - rabatt;
+            System.out.println("Du har fått " + procent +"% rabatt");
+            // Tips: Explicit typomvandling (cast) för att ta bort decimalerna.
+            System.out.println("Du har fått " + (int)rabatt + "kr rabatt");
+            // Math.round() är bättre för att avrunda. Lita inte på (cast)
+            System.out.println("Din totalkostnad blir: " + Math.round(total) + "kr");
+        }
+
+
+
+
+
+
     }
 }
