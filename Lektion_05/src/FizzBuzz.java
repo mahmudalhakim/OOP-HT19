@@ -33,17 +33,30 @@ public class FizzBuzz {
             if ((number % 3 == 0) && (number % 5 == 0))
                 System.out.println("FizzBuzz");
 
-            // Testa delbarhet med 3
+                // Testa delbarhet med 3
             else if (number % 3 == 0)
                 System.out.println("Fizz");
 
-            // Testa delbarhet med 5
+                // Testa delbarhet med 5
             else if (number % 5 == 0)
                 System.out.println("Buzz");
 
-            // Visa number om det är varken delbart med 3 eller 5
+                // Visa number om det är varken delbart med 3 eller 5
             else
                 System.out.println(number);
         }
+
+
+        System.out.println("*** FizzBuzz - Ternary Version ***");
+        for (number = 1; number <= 100; number++) {
+            System.out.println(
+                    (number % 3 == 0 && number % 5 == 0) ? "FizzBuzz"
+                            : (number % 3 == 0) ? "Fizz"
+                            : (number % 5 == 0) ? "Buzz"
+                            : Integer.toString(number)
+            );
+        }
+
+
     }
 }
