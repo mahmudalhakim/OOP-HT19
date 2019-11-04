@@ -47,7 +47,7 @@ Output är 15
         // Input
         // Testkod
         // int n = 15;
-        while(true) {
+        while(true) { // Oändlig loop
             String input = JOptionPane.showInputDialog("Ange talet n: ");
             if(input == null)  // Vid avbryt går ur loopen
                 break;
@@ -63,12 +63,7 @@ Output är 15
             JOptionPane.showMessageDialog(
                     null,
                     "Summan av n = " + summa);
-        }
+        } // while
         // Hit kommer man vid break
-
-
-
-
-
     }
 }
