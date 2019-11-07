@@ -94,8 +94,5 @@ public class SwitchDemo {
             default:
                 System.exit(0);
         }
-
-
-
     }
 }
