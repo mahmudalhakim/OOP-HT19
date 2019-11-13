@@ -60,6 +60,7 @@ public class TerminalDemo {
      * En klassmetod som visar hur man läser in text från terminalen
      * och konverterar texten till int eller double
      * Metoden beräknar x^y
+     *
      * @param input
      * @throws IOException
      */
@@ -82,6 +83,7 @@ public class TerminalDemo {
      * Man läser in ett godtyckligt antal tecken från terminalen
      * Vid avbryt med EOF-tecknet, får vi null tillbaka
      * och då avslutas loopen
+     *
      * @param input
      * @throws IOException
      */

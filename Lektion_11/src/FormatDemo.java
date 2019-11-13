@@ -17,7 +17,7 @@ public class FormatDemo {
         int data1 = 1;
         double data2 = 1.2;
         String data3 = "Test";
-        String output = String.format("Formatsträng: %d %f %s", data1,data2,data3);
+        String output = String.format("Formatsträng: %d %f %s", data1, data2, data3);
         System.out.println(output);
 
         // Heltalstyper
@@ -62,7 +62,7 @@ public class FormatDemo {
         System.out.printf("%.4f \n", 1.222222222222); // 1,2222
 
         // Ange bredd och bestäm antal decimaler
-        System.out.printf("%10.2f \n" , 1.2);
+        System.out.printf("%10.2f \n", 1.2);
 
 
         /***********************************************

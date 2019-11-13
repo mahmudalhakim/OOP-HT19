@@ -23,9 +23,9 @@ public class ScannerDemo {
 //        exempel03();
 //        exempel04();
 
-          double x = readDouble();
-          double y = readDouble();
-          System.out.println("x+y=" + (x+y) );
+        double x = readDouble();
+        double y = readDouble();
+        System.out.println("x+y=" + (x + y));
 
     }
 
@@ -51,7 +51,7 @@ public class ScannerDemo {
         double y = scan.nextDouble();
 
         // Beräkna och visa resultatet
-        System.out.println("x^y = " + Math.pow(x,y));
+        System.out.println("x^y = " + Math.pow(x, y));
     }
 
     static void exempel03() {
@@ -59,7 +59,7 @@ public class ScannerDemo {
         System.out.println("Skriv ett antal heltal på en rad och tryck på Enter");
         System.out.println("Avsluta med EOF");
         int sum = 0;
-        while(scan.hasNextInt()){
+        while (scan.hasNextInt()) {
             sum += scan.nextInt();
         }
         System.out.println("Summan av alla tal : " + sum);
@@ -71,14 +71,14 @@ public class ScannerDemo {
         // Summa av ett antal godtyckliga heltal från en dialogruta
 
         String input = JOptionPane.showInputDialog("Ange ett antal heltal");
-        if(input == null)  // Användaren vill avsluta metoden
+        if (input == null)  // Användaren vill avsluta metoden
             return;        // OBS! System.exit(0) avslutar programmet
 
         // Skapa ett scanner-objekt
         Scanner scan = new Scanner(input);
 
         int sum = 0;
-        while (scan.hasNextInt()){
+        while (scan.hasNextInt()) {
             sum += scan.nextInt();
         }
 
@@ -86,14 +86,14 @@ public class ScannerDemo {
     }
 
 
-
     /**
      * En klassmetod som ber användaren mata in ett decimaltal
      * Metoden hanterar felaktiga inmatningar
+     *
      * @return ett decimaltal
      */
-     static double readDouble() {
-        while(true) {
+    static double readDouble() {
+        while (true) {
             try {
                 System.out.println("Ange ett decimaltal");
                 double tal = scan.nextDouble();
