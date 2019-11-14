@@ -15,7 +15,7 @@ public class Ovning_8_8 {
      */
 
     public static void main(String[] args) {
-        String t = "11+12";
+        String t = "11+12%";
 
         int i1 = StringMetoder.sökFörstaBland(t, "0123456789", 0);
         System.out.println("Första tecken som är siffra på plats nr " + i1);
