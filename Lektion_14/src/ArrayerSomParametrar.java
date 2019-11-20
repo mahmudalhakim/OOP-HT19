@@ -78,4 +78,29 @@ public class ArrayerSomParametrar {
     }
 
 
+    // Övning
+
+    /**
+     * En metod som summerar ett godtyckligt antal tal
+     */
+    public static double sum(double... array) {
+        double sum = 0;
+        for (double n : array) {
+            sum += n;
+        }
+        return sum;
+    }
+
+    // Att returnera en array
+    public static int[] reverse(int[] array){
+
+        int[] result = new int[array.length];
+
+        for (int i = 0 , j = array.length-1 ; i < array.length ; i++, j--) {
+            result[j] = array[i];
+        }
+
+        return result;
+    }
+
 }
