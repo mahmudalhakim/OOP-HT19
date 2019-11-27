@@ -36,6 +36,9 @@ public class PersonDemo {
         System.out.println("Alla objekt har sparats i filen persons.data");
         // OBS! Du behöver inte öppna filen i en texteditor!
 
+
+        fileWriter.close();
+
         /*********************************************
          *****    Att läsa objekt från en binärfil ***
          *********************************************/
@@ -63,5 +66,26 @@ public class PersonDemo {
             System.out.println(p.name + " är " + p.age + " år gammal.");
         }
 
+
+        System.out.println("-------------------------------------------");
+
+        // För att tömma filen skapa en ström med samma filnamn
+        fileWriter = new ObjectOutputStream(new FileOutputStream("persons.data"));
+        p1 = new Person();
+        p1.name = "Kalle";
+        p1.age = 10;
+        fileWriter.writeObject(p1);
+
+        // Läs från filen igen
+        fileReader = new ObjectInputStream(new FileInputStream("persons.data"));
+        while (true) {
+            Person p;
+            try {
+                p = (Person) fileReader.readObject();
+            } catch (EOFException e) {
+                break;
+            }
+            System.out.println(p.name + " är " + p.age + " år gammal.");
+        }
     }
 }
