@@ -1,3 +1,5 @@
+import java.io.Serializable;
+
 /**
  * Created by Mahmud Al Hakim
  * Nackademin - Stockholm - Sweden
@@ -6,8 +8,13 @@
  * Copyright: MIT
  */
 
-public class Person {
+public class Person implements Serializable {
 
+    // Serializability of a class is enabled by the class
+    // implementing the java.io.Serializable interface.
+
+    // Instansvariabler
     String name;
+    int age;
 
 }
