@@ -141,7 +141,12 @@ public class PointDemo {
         // Tips: https://www.youtube.com/watch?v=lyZQPjUT5B4
     }
 
-
+    /**
+     * En klassmetod om söker efter en punkt
+     *
+     * @param points en array av typen Point[]
+     * @param point  en referens till ett objekt av typen Point
+     */
     static int search(Point[] points, Point point) {
         int i;
         for (i = 0; i < points.length; i++) {
