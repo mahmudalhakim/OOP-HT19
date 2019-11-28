@@ -21,7 +21,7 @@ public class Projektarbete {
     1. Tärningsspel
     Här finns många intressanta idéer
     T.ex.
-    Två personer kastar två olika tärningar och personen som får man summa vinner
+    Två personer kastar två olika tärningar och den som får max-summa vinner
     Man skall också kunna spela mot datorn.
     Läs gärna denna artikel och hitta på nya idéer.
     // https://sv.wikipedia.org/wiki/T%C3%A4rning
@@ -44,12 +44,17 @@ public class Projektarbete {
 
     5. Analyser
     5.1. Utveckla Skansholm exempel om väderobservationer på sidan 292
-         Ett program som läser in temperatur och vindhastighet
+         Ett program som läser in temperatur och vindhastighet,
          för olika städer under olika tidpunkter från en textfil.
          Programmet ska analysera data och visa en sammanställning på resultatet.
 
+    5.2 Ett program som läser in betyg för olika studenter i olika kurser
+        och visar sammanställning på resultatet.
+        Antal IG, G, VG i olika kurser.
 
-
+    6. Bank
+       Ett program som skapar olika bankkonton åt olika personer.
+       En person skall kunna sätt in och ta ut pengar från sitt eget konto
 
      */
 
