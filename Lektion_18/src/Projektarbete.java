@@ -65,6 +65,14 @@ public class Projektarbete {
        En person skall kunna köpa flera bilar.
        En såld bil kan inte säljas igen!
 
+    9. Sjukhus
+       Hantera patienter och läkare
+
+    10. Fotbol
+        Hantera fotbollspelare, rankning, analyser o.s.v.
+
+    11. Mobil
+        Kontrollera mobilkostnad, saldo och annat smått och gott.
 
      */
 
