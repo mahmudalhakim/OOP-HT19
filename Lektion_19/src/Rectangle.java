@@ -58,5 +58,13 @@ public class Rectangle {
         return this.height * this.width;
     }
 
-
+    @Override
+    public String toString() {
+        return "Rectangle{" +
+                "height=" + height +
+                ", width=" + width +
+                ", area=" + area() +
+                ", omkrets=" + perimeter() +
+                '}';
+    }
 }

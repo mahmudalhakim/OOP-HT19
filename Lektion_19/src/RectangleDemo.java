@@ -47,6 +47,14 @@ public class RectangleDemo {
         System.out.println("r1 area = " + r1.area());
         System.out.println("r2 area = " + r2.area());
 
+        System.out.println(r1);
+        System.out.println(r2);
+
+        Rectangle r3 = new Rectangle();
+        r3.setHeight(10);
+        r3.setWidth(20);
+        System.out.println(r3);
+
 
     }
 }
