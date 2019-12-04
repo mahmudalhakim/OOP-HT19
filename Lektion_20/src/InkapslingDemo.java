@@ -1,3 +1,4 @@
+import java.time.Period;
 
 /**
  * Created by Mahmud Al Hakim
@@ -33,6 +34,27 @@ public class InkapslingDemo {
         punkt1.setY(10);
         System.out.println("(" + punkt1.getX() + "," + punkt1.getY() + ")");
         System.out.println(punkt1);
+
+        Person p4 = new Person("Mahmud", "Al Hakim", 45);
+        // Person p5 = new Person(null, "");
+        Person p6 = new Person("James, Gosling");
+        System.out.println(p6);
+
+        Person p7 = new Person(1.7, 88);
+        System.out.println(p7);
+
+
+        // Anrop av en instansmetod
+        // OBS! Vi måste skapa en instans (ett objekt)
+        Person p8 = new Person(1.8, 75);
+        p8.setFirstName("Mahmud");
+        p8.setLastName("Al Hakim");
+        System.out.println(p8.getBMI());
+
+        // Anrop av en klassmetod
+        // Inga instanser behövs
+        System.out.println(Person.getBMI(1.8, 75));
+
 
     }
 }
