@@ -33,5 +33,6 @@ public class InkapslingDemo {
         punkt1.setY(10);
         System.out.println("(" + punkt1.getX() + "," + punkt1.getY() + ")");
         System.out.println(punkt1);
+
     }
 }
