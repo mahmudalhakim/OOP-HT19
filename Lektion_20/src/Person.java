@@ -46,6 +46,11 @@ class Person {
         setWeight(weight);
     }
 
+    /**
+     * Sätter förnamnet
+     *
+     * @return
+     */
     public String getFirstName() {
         if (this.firstName != null)
             return firstName;
