@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="OOP-TEMP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hakimLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang3-3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
