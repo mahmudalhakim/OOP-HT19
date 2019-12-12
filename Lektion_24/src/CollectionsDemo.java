@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Objects;
 import java.util.Random;
 
 /**
@@ -68,6 +69,12 @@ public class CollectionsDemo {
 
         Collections.shuffle(persons);
         System.out.println(persons);
+
+        p1.age = 10;
+        p2.age = 20;
+        if (p1.equals(p2)) {
+            System.out.println("Samma ålder");
+        }
     }
 }
 
@@ -100,4 +107,14 @@ class Person implements Comparable<Person> {
         else
             return 0;
     }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Person person = (Person) o;
+        return age == person.age;
+    }
+
+
 }
