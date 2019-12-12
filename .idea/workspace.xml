@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.61234176" />
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4265220d-d802-442b-890e-e1c6612fd30c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="281" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OOP_HT19">
+      <favorite_root url="file://$PROJECT_DIR$/Lektion_07/src" module="Lektion_07" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/Lektion_07/src/Bank.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/Lektion_07/src/DoDemo.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/Lektion_07/src/ForDemo.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/Lektion_07/src/WhileDemo.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/Lektion_07/src/Vattenalger.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/Lektion_07/src/BlankaTecken.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+      <favorite_root url="file://$APPLICATION_CONFIG_DIR$/scratches/Uppgift_2_1.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="External Libraries" pattern="" />
+  </component>
+  <component name="ProjectId" id="1SMTrrGkLmWz2NIxAaHfr1t9ZMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="packageLocal" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Lektion_16/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2361111" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="debugger.hotswap" />
+    <property name="settings.editor.splitter.proportion" value="0.25851285" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
+      <recent name="$PROJECT_DIR$/out/production/Lektion_03" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
+      <recent name="$PROJECT_DIR$/Lektion_15" />
+      <recent name="$PROJECT_DIR$/Lektion_12" />
+      <recent name="$PROJECT_DIR$/Uppgifter/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StackDemo">
+    <configuration name="AnimalsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animals.AnimalsDemo" />
+      <module name="Lektion_23" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceDemo" />
+      <module name="Lektion_23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListDemo" />
+      <module name="Lektion_23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ovning.Main" />
+      <module name="Lektion_22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ovning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackDemo" />
+      <module name="Lektion_24" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Lektion_09" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Lektion_09" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AnimalsDemo" />
+      <item itemvalue="Application.InterfaceDemo" />
+      <item itemvalue="Application.ListDemo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StackDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackDemo" />
+        <item itemvalue="Application.AnimalsDemo" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.InterfaceDemo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="1" Folder0="$PROJECT_DIR$" CustomDictionaries="1" CustomDictionary0="$PROJECT_DIR$/swedish.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4265220d-d802-442b-890e-e1c6612fd30c" name="Default Changelist" comment="" />
+      <created>1571372666472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571372666472</updated>
+    </task>
+    <task id="LOCAL−00026" summary="Lektion 5">
+      <created>1572430677100</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1572430677100</updated>
+    </task>
+    <task id="LOCAL−00027" summary="Lektion 5">
+      <created>1572432009742</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1572432009742</updated>
+    </task>
+    <task id="LOCAL−00028" summary="Lektion 5">
+      <created>1572432872007</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1572432872007</updated>
+    </task>
+    <task id="LOCAL−00029" summary="Lektion 5">
+      <created>1572438584975</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1572438584975</updated>
+    </task>
+    <task id="LOCAL−00030" summary="Lektion 5">
+      <created>1572445126752</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1572445126752</updated>
+    </task>
+    <task id="LOCAL−00031" summary="Lektion 5">
+      <created>1572510017596</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1572510017596</updated>
+    </task>
+    <task id="LOCAL−00032" summary="Lektion 5">
+      <created>1572518717550</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1572518717550</updated>
+    </task>
+    <task id="LOCAL−00033" summary="Lektion 7">
+      <created>1572860990041</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1572860990041</updated>
+    </task>
+    <task id="LOCAL−00034" summary="Lektion 7">
+      <created>1572864337781</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1572864337781</updated>
+    </task>
+    <task id="LOCAL−00035" summary="Lektion 7">
+      <created>1572870876059</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1572870876059</updated>
+    </task>
+    <task id="LOCAL−00036" summary="Lektion 7">
+      <created>1572874958580</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1572874958580</updated>
+    </task>
+    <task id="LOCAL−00037" summary="Lektion 8">
+      <created>1573044368198</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1573044368198</updated>
+    </task>
+    <task id="LOCAL−00038" summary="Lektion 8">
+      <created>1573115323675</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1573115323675</updated>
+    </task>
+    <task id="LOCAL−00039" summary="Lektion 8">
+      <created>1573115628957</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1573115628957</updated>
+    </task>
+    <task id="LOCAL−00040" summary="Lektion 9">
+      <created>1573123586606</created>
+      <option name="number" value="LOCAL−00040" />
+      <option name="presentableId" value="LOCAL−00040" />
+      <updated>1573123586606</updated>
+    </task>
+    <task id="LOCAL−00041" summary="Lektion 6">
+      <created>1573127887649</created>
+      <option name="number" value="LOCAL−00041" />
+      <option name="presentableId" value="LOCAL−00041" />
+      <updated>1573127887649</updated>
+    </task>
+    <task id="LOCAL−00042" summary="Lektion 10">
+      <created>1573469177404</created>
+      <option name="number" value="LOCAL−00042" />
+      <option name="presentableId" value="LOCAL−00042" />
+      <updated>1573469177404</updated>
+    </task>
+    <task id="LOCAL−00043" summary="Lektion 10">
+      <created>1573480896058</created>
+      <option name="number" value="LOCAL−00043" />
+      <option name="presentableId" value="LOCAL−00043" />
+      <updated>1573480896058</updated>
+    </task>
+    <task id="LOCAL−00044" summary="Lektion 11">
+      <created>1573654000310</created>
+      <option name="number" value="LOCAL−00044" />
+      <option name="presentableId" value="LOCAL−00044" />
+      <updated>1573654000310</updated>
+    </task>
+    <task id="LOCAL−00045" summary="Lektion 11">
+      <created>1573654165235</created>
+      <option name="number" value="LOCAL−00045" />
+      <option name="presentableId" value="LOCAL−00045" />
+      <updated>1573654165235</updated>
+    </task>
+    <task id="LOCAL−00046" summary="Lektion 12">
+      <created>1573728127328</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1573728127328</updated>
+    </task>
+    <task id="LOCAL−00047" summary="Lektion 12">
+      <created>1573738472069</created>
+      <option name="number" value="LOCAL−00047" />
+      <option name="presentableId" value="LOCAL−00047" />
+      <updated>1573738472069</updated>
+    </task>
+    <task id="LOCAL−00048" summary="Lektion 12">
+      <created>1573740749481</created>
+      <option name="number" value="LOCAL−00048" />
+      <option name="presentableId" value="LOCAL−00048" />
+      <updated>1573740749481</updated>
+    </task>
+    <task id="LOCAL−00049" summary="Lektion 13">
+      <created>1574081696003</created>
+      <option name="number" value="LOCAL−00049" />
+      <option name="presentableId" value="LOCAL−00049" />
+      <updated>1574081696003</updated>
+    </task>
+    <task id="LOCAL−00050" summary="Lektion 14">
+      <created>1574243691993</created>
+      <option name="number" value="LOCAL−00050" />
+      <option name="presentableId" value="LOCAL−00050" />
+      <updated>1574243691994</updated>
+    </task>
+    <task id="LOCAL−00051" summary="Lektion 14">
+      <created>1574246509479</created>
+      <option name="number" value="LOCAL−00051" />
+      <option name="presentableId" value="LOCAL−00051" />
+      <updated>1574246509479</updated>
+    </task>
+    <task id="LOCAL−00052" summary="Lektion 14">
+      <created>1574270781247</created>
+      <option name="number" value="LOCAL−00052" />
+      <option name="presentableId" value="LOCAL−00052" />
+      <updated>1574270781247</updated>
+    </task>
+    <task id="LOCAL−00053" summary="Lektion 15">
+      <created>1574326351475</created>
+      <option name="number" value="LOCAL−00053" />
+      <option name="presentableId" value="LOCAL−00053" />
+      <updated>1574326351475</updated>
+    </task>
+    <task id="LOCAL−00054" summary="Lektion 15">
+      <created>1574332746976</created>
+      <option name="number" value="LOCAL−00054" />
+      <option name="presentableId" value="LOCAL−00054" />
+      <updated>1574332746976</updated>
+    </task>
+    <task id="LOCAL−00055" summary="Lektion 15">
+      <created>1574689899024</created>
+      <option name="number" value="LOCAL−00055" />
+      <option name="presentableId" value="LOCAL−00055" />
+      <updated>1574689899025</updated>
+    </task>
+    <task id="LOCAL−00056" summary="Lektion 17">
+      <created>1574851550088</created>
+      <option name="number" value="LOCAL−00056" />
+      <option name="presentableId" value="LOCAL−00056" />
+      <updated>1574851550088</updated>
+    </task>
+    <task id="LOCAL−00057" summary="Lektion 17">
+      <created>1574859482280</created>
+      <option name="number" value="LOCAL−00057" />
+      <option name="presentableId" value="LOCAL−00057" />
+      <updated>1574859482280</updated>
+    </task>
+    <task id="LOCAL−00058" summary="Lektion 17">
+      <created>1574863446846</created>
+      <option name="number" value="LOCAL−00058" />
+      <option name="presentableId" value="LOCAL−00058" />
+      <updated>1574863446846</updated>
+    </task>
+    <task id="LOCAL−00059" summary="Lektion 15">
+      <created>1574937547895</created>
+      <option name="number" value="LOCAL−00059" />
+      <option name="presentableId" value="LOCAL−00059" />
+      <updated>1574937547895</updated>
+    </task>
+    <task id="LOCAL−00060" summary="Lektion 18">
+      <created>1574937883242</created>
+      <option name="number" value="LOCAL−00060" />
+      <option name="presentableId" value="LOCAL−00060" />
+      <updated>1574937883243</updated>
+    </task>
+    <task id="LOCAL−00061" summary="Lektion 18">
+      <created>1574937942963</created>
+      <option name="number" value="LOCAL−00061" />
+      <option name="presentableId" value="LOCAL−00061" />
+      <updated>1574937942964</updated>
+    </task>
+    <task id="LOCAL−00062" summary="Lektion 18">
+      <created>1574941023813</created>
+      <option name="number" value="LOCAL−00062" />
+      <option name="presentableId" value="LOCAL−00062" />
+      <updated>1574941023813</updated>
+    </task>
+    <task id="LOCAL−00063" summary="Lektion 18">
+      <created>1574941296408</created>
+      <option name="number" value="LOCAL−00063" />
+      <option name="presentableId" value="LOCAL−00063" />
+      <updated>1574941296408</updated>
+    </task>
+    <task id="LOCAL−00064" summary="Lektion 18">
+      <created>1574942695040</created>
+      <option name="number" value="LOCAL−00064" />
+      <option name="presentableId" value="LOCAL−00064" />
+      <updated>1574942695040</updated>
+    </task>
+    <task id="LOCAL−00065" summary="Lektion 19">
+      <created>1575283465508</created>
+      <option name="number" value="LOCAL−00065" />
+      <option name="presentableId" value="LOCAL−00065" />
+      <updated>1575283465510</updated>
+    </task>
+    <task id="LOCAL−00066" summary="Lektion 19">
+      <created>1575296476187</created>
+      <option name="number" value="LOCAL−00066" />
+      <option name="presentableId" value="LOCAL−00066" />
+      <updated>1575296476188</updated>
+    </task>
+    <task id="LOCAL−00067" summary="Lektion 18">
+      <created>1575456464634</created>
+      <option name="number" value="LOCAL−00067" />
+      <option name="presentableId" value="LOCAL−00067" />
+      <updated>1575456464634</updated>
+    </task>
+    <task id="LOCAL−00068" summary="Lektion 20">
+      <created>1575456500069</created>
+      <option name="number" value="LOCAL−00068" />
+      <option name="presentableId" value="LOCAL−00068" />
+      <updated>1575456500069</updated>
+    </task>
+    <task id="LOCAL−00069" summary="Lektion 20">
+      <created>1575467932502</created>
+      <option name="number" value="LOCAL−00069" />
+      <option name="presentableId" value="LOCAL−00069" />
+      <updated>1575467932502</updated>
+    </task>
+    <task id="LOCAL−00070" summary="Lektion 22">
+      <created>1575884497628</created>
+      <option name="number" value="LOCAL−00070" />
+      <option name="presentableId" value="LOCAL−00070" />
+      <updated>1575884497629</updated>
+    </task>
+    <task id="LOCAL−00071" summary="Lektion 22">
+      <created>1575888104982</created>
+      <option name="number" value="LOCAL−00071" />
+      <option name="presentableId" value="LOCAL−00071" />
+      <updated>1575888104982</updated>
+    </task>
+    <task id="LOCAL−00072" summary="Lektion 23">
+      <created>1576066628662</created>
+      <option name="number" value="LOCAL−00072" />
+      <option name="presentableId" value="LOCAL−00072" />
+      <updated>1576066628663</updated>
+    </task>
+    <task id="LOCAL−00073" summary="Lektion 24">
+      <created>1576139850596</created>
+      <option name="number" value="LOCAL−00073" />
+      <option name="presentableId" value="LOCAL−00073" />
+      <updated>1576139850597</updated>
+    </task>
+    <task id="LOCAL−00074" summary="OOP">
+      <created>1576139954326</created>
+      <option name="number" value="LOCAL−00074" />
+      <option name="presentableId" value="LOCAL−00074" />
+      <updated>1576139954326</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Lektion 1" />
+    <MESSAGE value="Do not need src folder in root" />
+    <MESSAGE value="Swedish Dictionary &#10;Lägg denna fil till varje nytt projekt i IntelliJ IDEA&#10;Leta efter Spelling i Settings/Preferences" />
+    <MESSAGE value="Lektion 2" />
+    <MESSAGE value="Lektion 3" />
+    <MESSAGE value="Lektion 4" />
+    <MESSAGE value="Lektion 5" />
+    <MESSAGE value="Lektion 7" />
+    <MESSAGE value="Lektion 8" />
+    <MESSAGE value="Lektion 9" />
+    <MESSAGE value="Lektion 6" />
+    <MESSAGE value="Lektion 10" />
+    <MESSAGE value="Lektion 11" />
+    <MESSAGE value="Lektion 12" />
+    <MESSAGE value="Lektion 13" />
+    <MESSAGE value="Lektion 14" />
+    <MESSAGE value="Lektion 17" />
+    <MESSAGE value="Lektion 15" />
+    <MESSAGE value="Lektion 19" />
+    <MESSAGE value="Lektion 18" />
+    <MESSAGE value="Lektion 20" />
+    <MESSAGE value="Lektion 22" />
+    <MESSAGE value="Lektion 23" />
+    <MESSAGE value="Lektion 24" />
+    <MESSAGE value="OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="20" y="0" key="#Notifications" timestamp="1576139909712">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="20" y="0" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1576139909712" />
+    <state x="401" y="23" key="#com.intellij.ide.util.MemberChooser" timestamp="1576059987501">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="401" y="23" key="#com.intellij.ide.util.MemberChooser/0.23.1440.834@0.23.1440.834" timestamp="1576059987501" />
+    <state x="408" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575536544962">
+      <screen x="0" y="0" width="1440" height="858" />
+    </state>
+    <state x="408" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.858@0.0.1440.858" timestamp="1575536544962" />
+    <state x="129" y="0" key="CommitChangelistDialog2" timestamp="1576139954056">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="129" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1576139954056" />
+    <state x="129" y="23" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1576066628393" />
+    <state width="1366" height="310" key="GridCell.Tab.0.bottom" timestamp="1576139736512">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576139736512" />
+    <state width="1326" height="450" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1576067313498" />
+    <state width="1366" height="310" key="GridCell.Tab.0.center" timestamp="1576139736509">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576139736509" />
+    <state width="1326" height="450" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1576067313497" />
+    <state width="1366" height="310" key="GridCell.Tab.0.left" timestamp="1576139736508">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576139736508" />
+    <state width="1326" height="450" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1576067313496" />
+    <state width="1366" height="310" key="GridCell.Tab.0.right" timestamp="1576139736511">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576139736511" />
+    <state width="1326" height="450" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1576067313498" />
+    <state width="1366" height="310" key="GridCell.Tab.1.bottom" timestamp="1576139736518">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576139736518" />
+    <state width="1326" height="450" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1576067313499" />
+    <state width="1366" height="310" key="GridCell.Tab.1.center" timestamp="1576139736516">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1576139736516" />
+    <state width="1326" height="450" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1576067313499" />
+    <state width="1366" height="310" key="GridCell.Tab.1.left" timestamp="1576139736515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1576139736515" />
+    <state width="1326" height="450" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1576067313498" />
+    <state width="1366" height="310" key="GridCell.Tab.1.right" timestamp="1576139736517">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1366" height="310" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1576139736517" />
+    <state width="1326" height="450" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1576067313499" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1575884303358">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1575884303358" />
+    <state x="20" y="0" key="Vcs.Push.Dialog.v2" timestamp="1576139966613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="20" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1576139966613" />
+    <state x="20" y="23" key="Vcs.Push.Dialog.v2/0.23.1440.834@0.23.1440.834" timestamp="1576066631402" />
+    <state x="372" y="127" key="git4idea.merge.GitMergeDialog" timestamp="1576140108921">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="372" y="127" key="git4idea.merge.GitMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1576140108921" />
+    <state width="1205" height="500" key="javadoc.popup.new" timestamp="1576056401456">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1205" height="500" key="javadoc.popup.new/0.23.1440.834@0.23.1440.834" timestamp="1576056401456" />
+    <state x="0" y="23" key="new project wizard" timestamp="1576138673017">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.834@0.23.1440.834" timestamp="1576138673017" />
+    <state x="133" y="23" width="1173" height="834" key="search.everywhere.popup" timestamp="1575887819397">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="133" y="23" width="1173" height="834" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1575887819397" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lektion_07/src/Bank.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Uppgifter/src/Uppgift_2_Del_1.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lektion_16/src/PointDemo.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lektion_22/src/AnimalDemo.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lektion_23/src/ListDemo.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lektion_24/src/StackDemo.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Lektion_24/src/StackDemo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP_HT19$ArrayDemo.ic" NAME="ArrayDemo Coverage Results" MODIFIED="1572681561394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/OOP_HT19$Ovning_8_8.ic" NAME="Ovning_8_8 Coverage Results" MODIFIED="1573716611472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
