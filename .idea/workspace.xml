@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4265220d-d802-442b-890e-e1c6612fd30c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP_HT19.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lektion_24/src/CollectionsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion_24/src/CollectionsDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,12 +256,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571372666472</updated>
-    </task>
-    <task id="LOCAL−00029" summary="Lektion 5">
-      <created>1572438584975</created>
-      <option name="number" value="LOCAL−00029" />
-      <option name="presentableId" value="LOCAL−00029" />
-      <updated>1572438584975</updated>
     </task>
     <task id="LOCAL−00030" summary="Lektion 5">
       <created>1572445126752</created>
@@ -550,7 +545,13 @@
       <option name="presentableId" value="LOCAL−00077" />
       <updated>1576144722354</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL−00078" summary="OOP">
+      <created>1576146936485</created>
+      <option name="number" value="LOCAL−00078" />
+      <option name="presentableId" value="LOCAL−00078" />
+      <updated>1576146936485</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -612,10 +613,10 @@
       <screen x="0" y="0" width="1440" height="858" />
     </state>
     <state x="408" y="139" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.858@0.0.1440.858" timestamp="1575536544962" />
-    <state x="129" y="0" key="CommitChangelistDialog2" timestamp="1576144722172">
+    <state x="129" y="0" key="CommitChangelistDialog2" timestamp="1576146936294">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="129" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1576144722172" />
+    <state x="129" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1576146936294" />
     <state x="129" y="23" key="CommitChangelistDialog2/0.23.1440.834@0.23.1440.834" timestamp="1576066628393" />
     <state width="1366" height="310" key="GridCell.Tab.0.bottom" timestamp="1576146775730">
       <screen x="0" y="0" width="1440" height="900" />
@@ -665,10 +666,10 @@
       <screen x="0" y="23" width="1440" height="834" />
     </state>
     <state x="0" y="23" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1575884303358" />
-    <state x="20" y="0" key="Vcs.Push.Dialog.v2" timestamp="1576144723779">
+    <state x="20" y="0" key="Vcs.Push.Dialog.v2" timestamp="1576146938175">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="20" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1576144723779" />
+    <state x="20" y="0" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1576146938175" />
     <state x="20" y="23" key="Vcs.Push.Dialog.v2/0.23.1440.834@0.23.1440.834" timestamp="1576066631402" />
     <state x="372" y="127" key="git4idea.merge.GitMergeDialog" timestamp="1576140108921">
       <screen x="0" y="0" width="1440" height="900" />
